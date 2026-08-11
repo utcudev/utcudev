@@ -1,5 +1,14 @@
 <h1 align="center">Merhaba, ben Utku 👋</h1>
 
+<h3 align="center">Full Stack Developer · Ankara, Türkiye</h3>
+
+<p align="center">
+  Web'den mobile, veritabanından buluta — uçtan uca çalışan sistemler kuruyorum.<br>
+  Çok kiracılı mimariler, mikroservisler ve dağıtık API'ler üzerine yoğunlaşıyorum.
+</p>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/utcudev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
