@@ -11,8 +11,9 @@
 <p align="center">
   İşin altyapı tarafı da beni aynı derecede çekiyor: sanallaştırma ve konteynerler,<br>
   Ethernet ve ağ topolojileri, yönlendirme, ters vekil sunucular, sunucu kurulumu.<br>
-  Linux'ta yaşıyorum; bir sistemi ancak kendi elimle kurup söktüğümde anladığıma inanıyorum.<br>
-  Boş vaktimde ev laboratuvarımı kurcalıyor, her şeyi otomatikleştirmenin yolunu arıyorum.
+  Masaüstünde Windows ve Linux'u yan yana (dual boot) kullanıyorum;<br>
+  ev sunucum ve VDS'lerim tamamen Linux üzerinde koşuyor.<br>
+  Bir sistemi ancak kendi elimle kurup söktüğümde anladığıma inanıyorum.
 </p>
 
 <br>
