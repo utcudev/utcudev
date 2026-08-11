@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=utcudev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
@@ -74,9 +74,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utcudev&theme=tokyonight&hide_border=true" alt="Streak">
+  <img src="https://streak-stats.demolab.com?user=utcudev&theme=tokyonight&hide_border=true" alt="Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utcudev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
 </p>
 
 ---
 
-<p align="center"><i>⭐ Projelerime göz atmaktan çekinme!</i></p>
+## 🐍 Katkı Yılanı
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/utcudev/utcudev/output/github-snake-dark.svg" alt="Snake animation">
+</p>
+
+---
+
+## 💭 Günün Sözü
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
+
+---
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+
+<p align="center">© 2026 utcudev — ☕ ile yapıldı</p>
