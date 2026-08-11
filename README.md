@@ -14,7 +14,11 @@
 
 ## 🚀 Hakkımda
 
+- 🌱 Öğrendiklerim: **çok kiracılı mimariler**, **mikroservisler**, **dağıtık API'ler**
+- 🧰 Altyapı tarafı: **sanallaştırma**, **konteynerler**, **ağ topolojileri**, **ters vekil sunucular**
+- 💬 Bana sorabilirsin: **Node.js**, **TypeScript**, **Go**, **Rust**, **C# / .NET**, **Python**, **PostgreSQL**, **Redis**, **Docker**, **Nginx**
 - ⚡ İlginç bilgi: **Her şeyi otomatikleştirmeyi** ve **ölçeklenebilir sistemler** kurmayı seviyorum!
+- 🎯 Hedefim: **açık kaynağa daha çok katkı** ve uçtan uca kendi kurduğum sistemler
 
 ---
 
