@@ -14,13 +14,7 @@
 
 ## 🚀 Hakkımda
 
-- 🛠️ Şu an üzerinde çalıştığım: [**Fast YouTube Downloader**](https://github.com/utcudev/Fast-Youtube-Downloader) — Windows ve Linux için kurulumsuz indirici
-- 🌱 Öğrendiklerim: **çok kiracılı mimariler**, **mikroservisler**, **dağıtık API'ler**
-- 🧰 Altyapı tarafı: **sanallaştırma**, **konteynerler**, **ağ topolojileri**, **ters vekil sunucular**
-- 🐧 Masaüstünde **Windows + Linux dual boot**; ev sunucum ve **VDS**'lerim tamamen Linux
-- 💬 Bana sorabilirsin: **Node.js**, **TypeScript**, **Go**, **Rust**, **C# / .NET**, **Python**, **PostgreSQL**, **Redis**, **Docker**, **Nginx**
-- ⚡ İlginç bilgi: Bir sistemi ancak **kendi elimle kurup söktüğümde** anladığıma inanıyorum
-- 🎯 Hedefim: **açık kaynağa daha çok katkı** ve uçtan uca kendi kurduğum sistemler
+- ⚡ İlginç bilgi: **Her şeyi otomatikleştirmeyi** ve **ölçeklenebilir sistemler** kurmayı seviyorum!
 
 ---
 
