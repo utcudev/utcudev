@@ -1,10 +1,11 @@
 <h1 align="center">Merhaba, ben Utku 👋</h1>
 
-<h3 align="center">Full Stack Developer · Ankara, Türkiye</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Web'den mobile, veritabanından buluta — uçtan uca çalışan sistemler kuruyorum.<br>
-  Çok kiracılı mimariler, mikroservisler ve dağıtık API'ler üzerine yoğunlaşıyorum.
+  Yazılım ve donanıma meraklıyım — kodun altında ne döndüğünü görmeden rahat edemem.<br>
+  Web'den mobile, veritabanından buluta uçtan uca sistemler kuruyorum;<br>
+  çok kiracılı mimariler, mikroservisler ve dağıtık API'ler ilgi alanım.
 </p>
 
 <br>
