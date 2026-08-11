@@ -91,6 +91,14 @@
 
 ---
 
+## 🎵 Şu An Çalıyor
+
+<p align="center">
+  <img src="https://novatorem-theta-nine.vercel.app/api/orchestrator" alt="Spotify now playing" width="400">
+</p>
+
+---
+
 ## 💭 Günün Sözü
 
 <p align="center">
