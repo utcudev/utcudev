@@ -3,28 +3,24 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Yazılım ve donanıma meraklıyım — kodun altında ne döndüğünü görmeden rahat edemem.<br>
-  Web'den mobile, veritabanından buluta uçtan uca sistemler kuruyorum;<br>
-  çok kiracılı mimariler, mikroservisler ve dağıtık API'ler ilgi alanım.
-</p>
-
-<p align="center">
-  İşin altyapı tarafı da beni aynı derecede çekiyor: sanallaştırma ve konteynerler,<br>
-  Ethernet ve ağ topolojileri, yönlendirme, ters vekil sunucular, sunucu kurulumu.<br>
-  Masaüstünde Windows ve Linux'u yan yana (dual boot) kullanıyorum;<br>
-  ev sunucum ve VDS'lerim tamamen Linux üzerinde koşuyor.<br>
-  Bir sistemi ancak kendi elimle kurup söktüğümde anladığıma inanıyorum.
-</p>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/utcudev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utcudev&style=for-the-badge&color=blue" alt="Profile views">
 </p>
+
+---
+
+## 🚀 Hakkımda
+
+- 🛠️ Şu an üzerinde çalıştığım: [**Fast YouTube Downloader**](https://github.com/utcudev/Fast-Youtube-Downloader) — Windows ve Linux için kurulumsuz indirici
+- 🌱 Öğrendiklerim: **çok kiracılı mimariler**, **mikroservisler**, **dağıtık API'ler**
+- 🧰 Altyapı tarafı: **sanallaştırma**, **konteynerler**, **ağ topolojileri**, **ters vekil sunucular**
+- 🐧 Masaüstünde **Windows + Linux dual boot**; ev sunucum ve **VDS**'lerim tamamen Linux
+- 💬 Bana sorabilirsin: **Node.js**, **TypeScript**, **Go**, **Rust**, **C# / .NET**, **Python**, **PostgreSQL**, **Redis**, **Docker**, **Nginx**
+- ⚡ İlginç bilgi: Bir sistemi ancak **kendi elimle kurup söktüğümde** anladığıma inanıyorum
+- 🎯 Hedefim: **açık kaynağa daha çok katkı** ve uçtan uca kendi kurduğum sistemler
 
 ---
 
