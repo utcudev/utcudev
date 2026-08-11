@@ -94,7 +94,9 @@
 ## 🎵 Şu An Çalıyor
 
 <p align="center">
-  <img src="https://novatorem-theta-nine.vercel.app/api/orchestrator" alt="Spotify now playing" width="400">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pogn6hxpduo4exjx5b55mmlife&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pogn6hxpduo4exjx5b55mmlife&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=00ff00&bar_color_cover=true&mode=dark" alt="Spotify now playing">
+  </a>
 </p>
 
 ---
